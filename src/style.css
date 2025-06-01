@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background-color: #f8fbff;
+  color: #123456;
+}
+select, button {
+  margin: 0.5rem;
+  padding: 0.4rem;
+  font-size: 1rem;
+}
+h1 {
+  color: #0077cc;
+}
